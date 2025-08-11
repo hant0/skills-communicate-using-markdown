@@ -10,5 +10,6 @@ print(f"Hello world")
 
 ### Task list
 - [ ] Turn on GitHub pages
-- [ ] outline my prtfolio
+- [ ] outline my portfolio
 - [ ] Introduce myself to the world
+
