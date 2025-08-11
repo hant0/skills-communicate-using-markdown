@@ -7,3 +7,8 @@
 ``` python
 print(f"Hello world")
 ```
+
+### Task list
+- [ ] Turn on GitHub pages
+- [ ] outline my prtfolio
+- [ ] Introduce myself to the world
